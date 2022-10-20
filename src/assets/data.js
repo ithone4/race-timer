@@ -1,4 +1,4 @@
-export const contestants = [
+export const contestantData = [
   { id: '0', name: 'Ola', xpos: 0, ypos: 0 },
   { id: '1', name: 'Bruce', xpos: 50, ypos: 10 },
   { id: '2', name: 'Chris', xpos: 100, ypos: 20 },
